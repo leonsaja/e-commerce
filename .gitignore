@@ -147,3 +147,13 @@ cython_debug/
 
 #vscode
 .vscode/
+
+pytest.ini
+
+produto.json
+dados.json
+
+.coverage
+.coveragerc
+
+media/
